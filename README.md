@@ -1,1 +1,1 @@
-`pip install safe-eth-py web3 eth-account requests python-telegram-bot hexbytes openai`
+`pip install safe-eth-py web3 eth-account requests python-telegram-bot hexbytes openai python-dotenv`
